@@ -1,0 +1,22 @@
+{"intents": [
+    {
+        "tag": "greetings",
+        "patterns": ["hello", "hi", "whatsup", "good day", "sup", "howdy", "how is it going", "hows it going"],
+        "responses": ["Hello!", "Hey", "Howdy", "How can I help?", "Huuulk SMASH!"]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["okay, thanks", "bye", "see you later", "cya later", "cao", "bye for now", "i'll be back"],
+        "responses": ["Bye!", "Hulk, sad.", "Hulk, helped?", "Goodbye!"]
+    },
+    {
+        "tag": "shop",
+        "patterns": ["how do i purchase something", "can i see the products", "what are your products", "how do you handle shipping?", "how do you talk"],
+        "responses": ["Hulkie can't tell you anything exactly at this point of the development, blaim it on Admir, I am still being trained."]
+    },
+    {
+        "tag": "puns",
+        "patterns": ["who created you", "who is your father", "what are you"],
+        "responses": ["I am Hulkie, I am and always will be!"]
+    }
+]}
